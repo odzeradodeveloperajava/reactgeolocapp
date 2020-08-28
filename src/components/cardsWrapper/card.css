@@ -5,6 +5,8 @@
     border-radius: 10px;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
+    display: flex;
+    flex-direction: column;
 }
 .cardImageContainer{
     height: 450px;
